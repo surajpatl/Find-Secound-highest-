@@ -1,4 +1,4 @@
-# Find-Secound-highest-
+# Find-Secound-highest-in given array
 package Java;
 
 import java.util.Arrays;
